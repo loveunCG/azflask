@@ -1,0 +1,2 @@
+SQLALCHEMY_DATABASE_URI = 'mysql://root:qweqwe@127.0.0.1/azrewards'
+SQLALCHEMY_TRACK_MODIFICATIONS = False
